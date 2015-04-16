@@ -1,0 +1,20 @@
+C:\Users\-\Documents\Visual Studio 2013\Projects\Quizzer 2\Shaw Tab\obj\Debug\ModuleTabControl.baml
+C:\Users\-\Documents\Visual Studio 2013\Projects\Quizzer 2\Shaw Tab\obj\Debug\ModuleTabItem.baml
+C:\Users\-\Documents\Visual Studio 2013\Projects\Quizzer 2\Shaw Tab\obj\Debug\RenameBox.baml
+C:\Users\-\Documents\Visual Studio 2013\Projects\Quizzer 2\Shaw Tab\obj\Debug\ModuleTabControl.g.cs
+C:\Users\-\Documents\Visual Studio 2013\Projects\Quizzer 2\Shaw Tab\obj\Debug\ModuleTabItem.g.cs
+C:\Users\-\Documents\Visual Studio 2013\Projects\Quizzer 2\Shaw Tab\obj\Debug\RenameBox.g.cs
+C:\Users\-\Documents\Visual Studio 2013\Projects\Quizzer 2\Shaw Tab\obj\Debug\UndockedModule.g.cs
+C:\Users\-\Documents\Visual Studio 2013\Projects\Quizzer 2\Shaw Tab\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\-\Documents\Visual Studio 2013\Projects\Quizzer 2\Shaw Tab\obj\Debug\UndockedModule.baml
+C:\Users\-\Documents\Visual Studio 2013\Projects\Quizzer 2\Shaw Tab\obj\Debug\Themes\Generic.baml
+C:\Users\-\Documents\Visual Studio 2013\Projects\Quizzer 2\Shaw Tab\obj\Debug\Shaw_Tab.Properties.Resources.resources
+C:\Users\-\Documents\Visual Studio 2013\Projects\Quizzer 2\Shaw Tab\obj\Debug\Shaw Tab.csproj.GenerateResource.Cache
+C:\Users\-\Documents\Visual Studio 2013\Projects\Quizzer 2\Shaw Tab\bin\Debug\Shaw_Tab.dll
+C:\Users\-\Documents\Visual Studio 2013\Projects\Quizzer 2\Shaw Tab\bin\Debug\Shaw_Tab.pdb
+C:\Users\-\Documents\Visual Studio 2013\Projects\Quizzer 2\Shaw Tab\obj\Debug\Shaw_Tab_MarkupCompile.cache
+C:\Users\-\Documents\Visual Studio 2013\Projects\Quizzer 2\Shaw Tab\obj\Debug\Shaw_Tab_MarkupCompile.lref
+C:\Users\-\Documents\Visual Studio 2013\Projects\Quizzer 2\Shaw Tab\obj\Debug\Shaw_Tab.g.resources
+C:\Users\-\Documents\Visual Studio 2013\Projects\Quizzer 2\Shaw Tab\obj\Debug\Shaw_Tab.dll
+C:\Users\-\Documents\Visual Studio 2013\Projects\Quizzer 2\Shaw Tab\obj\Debug\Shaw_Tab.pdb
+C:\Users\-\Documents\Visual Studio 2013\Projects\Quizzer 2\Shaw Tab\obj\Debug\Shaw Tab.csprojResolveAssemblyReference.cache
