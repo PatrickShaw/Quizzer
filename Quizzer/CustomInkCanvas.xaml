@@ -1,0 +1,9 @@
+﻿<InkCanvas x:Class="Quizzer.CustomInkCanvas" 
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"  EditingMode="InkAndGesture"      >
+    <InkCanvas.DefaultDrawingAttributes>
+        <DrawingAttributes Color="#FF004B9C" Height="2.0031496062992127" IgnorePressure="False" IsHighlighter="False" StylusTip="Ellipse" StylusTipTransform="Identity" Width="2.0031496062992127"/>
+    </InkCanvas.DefaultDrawingAttributes>
+</InkCanvas>

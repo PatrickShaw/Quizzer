@@ -1,0 +1,20 @@
+﻿<UserControl x:Class="Quizzer.Question_Data_Grid_Viewer"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             xmlns:local="clr-namespace:Quizzer"
+             d:DesignHeight="300" d:DesignWidth="300"
+             x:Name="_this">
+    <UserControl.Resources> 
+    </UserControl.Resources>
+    <Grid>
+        <local:SearchModule  HorizontalAlignment="Stretch" VerticalAlignment="Stretch"></local:SearchModule>
+        <!--<DataGrid x:Name="dgrdQuestions" DataContext="{Binding _this}" ItemsSource="{Binding Path=QuestionManager.questionList}">
+            <DataGridTextColumn x:Name="cID" Binding="{Binding ID}" Header="ID"/>
+            <DataGridTextColumn x:Name="cName" Binding="{Binding question}" Header="Question"/>
+        </DataGrid>
+        -->
+    </Grid>
+</UserControl>

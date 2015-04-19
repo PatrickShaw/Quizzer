@@ -1,0 +1,74 @@
+C:\Users\-\Documents\Visual Studio 2013\Projects\Quizzer 2\Quizzer\obj\Debug\Quizzer.csprojResolveAssemblyReference.cache
+C:\Users\-\Documents\Visual Studio 2013\Projects\Quizzer 2\Quizzer\obj\Debug\Main_Window.baml
+C:\Users\-\Documents\Visual Studio 2013\Projects\Quizzer 2\Quizzer\obj\Debug\SearchModule.baml
+C:\Users\-\Documents\Visual Studio 2013\Projects\Quizzer 2\Quizzer\obj\Debug\Settings.baml
+C:\Users\-\Documents\Visual Studio 2013\Projects\Quizzer 2\Quizzer\obj\Debug\Styles.baml
+C:\Users\-\Documents\Visual Studio 2013\Projects\Quizzer 2\Quizzer\obj\Debug\WordedAnswerBox.baml
+C:\Users\-\Documents\Visual Studio 2013\Projects\Quizzer 2\Quizzer\obj\Debug\Main_Window.g.cs
+C:\Users\-\Documents\Visual Studio 2013\Projects\Quizzer 2\Quizzer\obj\Debug\SearchChainPanel.g.cs
+C:\Users\-\Documents\Visual Studio 2013\Projects\Quizzer 2\Quizzer\obj\Debug\SearchModule.g.cs
+C:\Users\-\Documents\Visual Studio 2013\Projects\Quizzer 2\Quizzer\obj\Debug\Settings.g.cs
+C:\Users\-\Documents\Visual Studio 2013\Projects\Quizzer 2\Quizzer\obj\Debug\ViewerModule.g.cs
+C:\Users\-\Documents\Visual Studio 2013\Projects\Quizzer 2\Quizzer\obj\Debug\WordedAnswerBox.g.cs
+C:\Users\-\Documents\Visual Studio 2013\Projects\Quizzer 2\Quizzer\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\-\Documents\Visual Studio 2013\Projects\Quizzer 2\Quizzer\obj\Debug\Quizzer_MarkupCompile.cache
+C:\Users\-\Documents\Visual Studio 2013\Projects\Quizzer 2\Quizzer\obj\Debug\Quizzer_MarkupCompile.lref
+C:\Users\-\Documents\Visual Studio 2013\Projects\Quizzer 2\Quizzer\obj\Debug\SearchChainPanel.baml
+C:\Users\-\Documents\Visual Studio 2013\Projects\Quizzer 2\Quizzer\obj\Debug\Themes\Generic.baml
+C:\Users\-\Documents\Visual Studio 2013\Projects\Quizzer 2\Quizzer\obj\Debug\ViewerModule.baml
+C:\Users\-\Documents\Visual Studio 2013\Projects\Quizzer 2\Quizzer\obj\Debug\Quizzer.exe
+C:\Users\-\Documents\Visual Studio 2013\Projects\Quizzer 2\Quizzer\obj\Debug\Quizzer.pdb
+C:\Users\-\Documents\Visual Studio 2013\Projects\Quizzer 2\Quizzer\bin\Debug\Quizzer.exe
+C:\Users\-\Documents\Visual Studio 2013\Projects\Quizzer 2\Quizzer\bin\Debug\Quizzer.pdb
+C:\Users\-\Documents\Visual Studio 2013\Projects\Quizzer 2\Quizzer\bin\Debug\Shaw_Tab.dll
+C:\Users\-\Documents\Visual Studio 2013\Projects\Quizzer 2\Quizzer\bin\Debug\Shaw_Tab.pdb
+C:\Users\-\Documents\Visual Studio 2013\Projects\Quizzer 2\Quizzer\obj\Debug\Quizzer.g.resources
+C:\Users\-\Documents\Visual Studio 2013\Projects\Quizzer 2\Quizzer\obj\Debug\Quizzer.Properties.Resources.resources
+C:\Users\-\Documents\Visual Studio 2013\Projects\Quizzer 2\Quizzer\obj\Debug\Quizzer.csproj.GenerateResource.Cache
+C:\Users\-\Documents\Visual Studio 2013\Projects\Quizzer 2\Quizzer\obj\Debug\Statistics\BorderedModule.baml
+C:\Users\-\Documents\Visual Studio 2013\Projects\Quizzer 2\Quizzer\obj\Debug\Question Viewers\BrowserWrapPanel.baml
+C:\Users\-\Documents\Visual Studio 2013\Projects\Quizzer 2\Quizzer\obj\Debug\Question Viewers\Question Manager.baml
+C:\Users\-\Documents\Visual Studio 2013\Projects\Quizzer 2\Quizzer\obj\Debug\Question Viewers\Panel Modules\QuizBox.baml
+C:\Users\-\Documents\Visual Studio 2013\Projects\Quizzer 2\Quizzer\obj\Debug\Statistics\BorderedModule.g.cs
+C:\Users\-\Documents\Visual Studio 2013\Projects\Quizzer 2\Quizzer\obj\Debug\Question Viewers\BrowserWrapPanel.g.cs
+C:\Users\-\Documents\Visual Studio 2013\Projects\Quizzer 2\Quizzer\obj\Debug\Question Viewers\Data Grid Modules\Question Data Grid Viewer.g.cs
+C:\Users\-\Documents\Visual Studio 2013\Projects\Quizzer 2\Quizzer\obj\Debug\Question Viewers\Question Manager.g.cs
+C:\Users\-\Documents\Visual Studio 2013\Projects\Quizzer 2\Quizzer\obj\Debug\Question Viewers\Panel Modules\QuizBox.g.cs
+C:\Users\-\Documents\Visual Studio 2013\Projects\Quizzer 2\Quizzer\obj\Debug\Statistics\TagRecordStatistics.g.cs
+C:\Users\-\Documents\Visual Studio 2013\Projects\Quizzer 2\Quizzer\obj\Debug\Question Viewers\Data Grid Modules\Question Data Grid Viewer.baml
+C:\Users\-\Documents\Visual Studio 2013\Projects\Quizzer 2\Quizzer\obj\Debug\Statistics\TagRecordStatistics.baml
+C:\Users\-\Documents\Visual Studio 2013\Projects\Quizzer 2\Quizzer\obj\Debug\Question Panel Viewer.g.cs
+C:\Users\-\Documents\Visual Studio 2013\Projects\Quizzer 2\Quizzer\obj\Debug\Question Panel Viewer.baml
+C:\Users\-\Documents\Visual Studio 2013\Projects\Quizzer 2\Quizzer\obj\Debug\CustomInkCanvas.baml
+C:\Users\-\Documents\Visual Studio 2013\Projects\Quizzer 2\Quizzer\obj\Debug\Draggable Element.baml
+C:\Users\-\Documents\Visual Studio 2013\Projects\Quizzer 2\Quizzer\obj\Debug\Question2.baml
+C:\Users\-\Documents\Visual Studio 2013\Projects\Quizzer 2\Quizzer\obj\Debug\EditMultiChoiceAnswerBox.baml
+C:\Users\-\Documents\Visual Studio 2013\Projects\Quizzer 2\Quizzer\obj\Debug\ExamStyle.baml
+C:\Users\-\Documents\Visual Studio 2013\Projects\Quizzer 2\Quizzer\obj\Debug\IDCheckBox.baml
+C:\Users\-\Documents\Visual Studio 2013\Projects\Quizzer 2\Quizzer\obj\Debug\MCBox.baml
+C:\Users\-\Documents\Visual Studio 2013\Projects\Quizzer 2\Quizzer\obj\Debug\MCRadioButton.baml
+C:\Users\-\Documents\Visual Studio 2013\Projects\Quizzer 2\Quizzer\obj\Debug\QuestionTagModule.baml
+C:\Users\-\Documents\Visual Studio 2013\Projects\Quizzer 2\Quizzer\obj\Debug\wndIsCorrect.baml
+C:\Users\-\Documents\Visual Studio 2013\Projects\Quizzer 2\Quizzer\obj\Debug\wndAddMultiChoice.baml
+C:\Users\-\Documents\Visual Studio 2013\Projects\Quizzer 2\Quizzer\obj\Debug\ValueAnswerBox.baml
+C:\Users\-\Documents\Visual Studio 2013\Projects\Quizzer 2\Quizzer\obj\Debug\wndAddWorded.baml
+C:\Users\-\Documents\Visual Studio 2013\Projects\Quizzer 2\Quizzer\obj\Debug\CustomInkCanvas.g.cs
+C:\Users\-\Documents\Visual Studio 2013\Projects\Quizzer 2\Quizzer\obj\Debug\Draggable Element.g.cs
+C:\Users\-\Documents\Visual Studio 2013\Projects\Quizzer 2\Quizzer\obj\Debug\Question2.g.cs
+C:\Users\-\Documents\Visual Studio 2013\Projects\Quizzer 2\Quizzer\obj\Debug\EditMultiChoiceAnswerBox.g.cs
+C:\Users\-\Documents\Visual Studio 2013\Projects\Quizzer 2\Quizzer\obj\Debug\IDCheckBox.g.cs
+C:\Users\-\Documents\Visual Studio 2013\Projects\Quizzer 2\Quizzer\obj\Debug\MCBox.g.cs
+C:\Users\-\Documents\Visual Studio 2013\Projects\Quizzer 2\Quizzer\obj\Debug\MCRadioButton.g.cs
+C:\Users\-\Documents\Visual Studio 2013\Projects\Quizzer 2\Quizzer\obj\Debug\QuestionFillControl.g.cs
+C:\Users\-\Documents\Visual Studio 2013\Projects\Quizzer 2\Quizzer\obj\Debug\QuestionForm.g.cs
+C:\Users\-\Documents\Visual Studio 2013\Projects\Quizzer 2\Quizzer\obj\Debug\Questions.g.cs
+C:\Users\-\Documents\Visual Studio 2013\Projects\Quizzer 2\Quizzer\obj\Debug\QuestionTagModule.g.cs
+C:\Users\-\Documents\Visual Studio 2013\Projects\Quizzer 2\Quizzer\obj\Debug\Statistics.g.cs
+C:\Users\-\Documents\Visual Studio 2013\Projects\Quizzer 2\Quizzer\obj\Debug\wndIsCorrect.g.cs
+C:\Users\-\Documents\Visual Studio 2013\Projects\Quizzer 2\Quizzer\obj\Debug\wndAddMultiChoice.g.cs
+C:\Users\-\Documents\Visual Studio 2013\Projects\Quizzer 2\Quizzer\obj\Debug\ValueAnswerBox.g.cs
+C:\Users\-\Documents\Visual Studio 2013\Projects\Quizzer 2\Quizzer\obj\Debug\wndAddWorded.g.cs
+C:\Users\-\Documents\Visual Studio 2013\Projects\Quizzer 2\Quizzer\obj\Debug\QuestionFillControl.baml
+C:\Users\-\Documents\Visual Studio 2013\Projects\Quizzer 2\Quizzer\obj\Debug\QuestionForm.baml
+C:\Users\-\Documents\Visual Studio 2013\Projects\Quizzer 2\Quizzer\obj\Debug\Questions.baml
+C:\Users\-\Documents\Visual Studio 2013\Projects\Quizzer 2\Quizzer\obj\Debug\Statistics.baml
