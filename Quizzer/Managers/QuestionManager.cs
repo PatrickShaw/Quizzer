@@ -204,7 +204,7 @@ get{ return _totalQuestion.RightPercentage; }
     public static void AddQuestionToHistory(Question q)
    {
        questionHistory.Insert(0,q.ID);
-       if (questionList.Count < 100) { questionList.RemoveAt(questionList.Count - 1); }
+       if (questionHistory.Count < 100) { questionHistory.RemoveAt(questionHistory.Count - 1); }
    }
     class TagPoints
     {
@@ -250,8 +250,10 @@ get{ return _totalQuestion.RightPercentage; }
             noQuestionsUsed += 1;
             averageTimesAnswered += questionList[i].TimesAnswered;
         }
-        averageTimesAnswered /= (double)noQuestionsUsed;
-        
+        if (noQuestionsUsed != 0)
+        {
+            averageTimesAnswered /= (double)noQuestionsUsed;
+        }
         double[] qPoints = new double[questionList.Count];
         
         for (int i = 0; i < questionList.Count; i++)

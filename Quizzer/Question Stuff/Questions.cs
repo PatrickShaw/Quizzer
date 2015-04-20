@@ -265,7 +265,8 @@ namespace Quizzer
                 copies += 1;
                 goto Begin;
             }
-            if (copies != 0) { path += " - " + copies.ToString(); }
+        if (copies != 0) { path += " - " + copies.ToString(); }
+                if(Data.DirectoryIndex >= DirectoryManager.Directories.Count){DirectoryManager.Directories.Add("");}
             DirectoryManager.Directories[Data.DirectoryIndex] = path + @"\";
         }
         Directory.CreateDirectory(QuestionDirectory);

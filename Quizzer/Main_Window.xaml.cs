@@ -67,7 +67,9 @@ namespace Quizzer
         }
         private void btnRandomQuestion_Click(object sender, RoutedEventArgs e)
         {
-            Questions questionairre = new Questions(QuestionManager.SelectQuestion());
+            Question q = QuestionManager.SelectQuestion();
+            if (q == null) { return; }
+            Questions questionairre = new Questions(q);
             questionairre.ShowDialog();
         } 
         private void btnSettings_Click(object sender, RoutedEventArgs e)
@@ -77,7 +79,9 @@ namespace Quizzer
         } 
         private void btnSelectHardest_Click(object sender, RoutedEventArgs e)
         {
-            Questions questionairre = new Questions(QuestionManager.SelectQuestion(QSelectionMode.highestChance));
+            Question q = QuestionManager.SelectQuestion(QSelectionMode.highestChance);
+            if (q == null) { return; }
+            Questions questionairre = new Questions(q);
             questionairre.highestChanceSelection = true;
             questionairre.ShowDialog();
         } 
