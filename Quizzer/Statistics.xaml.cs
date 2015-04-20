@@ -117,9 +117,9 @@ namespace Quizzer
             // List box thingy
             subjectStatList.Clear();
             subjectStatList = SubjectManager.Subjects.OrderByDescending(x => 1 - x.RightPercentage).ToList();
-                string bestSubject = "Requires more questinos to be answered";
+                string bestSubject = "Requires more questions to be answered";
                 double bestSubjectPoints = 2;
-                string worstSubject = "Requires more questionis to be answered";
+                string worstSubject = "Requires more questions to be answered";
                 double worstSubjectPoints = -1;
             foreach(Tag SST in subjectStatList)
             {

@@ -282,8 +282,7 @@ namespace Quizzer
    }
     protected static string SummaryWords(string word, int length = 3)
     {
-        string sT = "";
-
+        string sT = ""; 
         for (int i = 0; i < word.Count() && i < length;i++)
         {
             if ((!Char.IsLetterOrDigit(word[i]) && !(word[i]==' '))) { continue; }

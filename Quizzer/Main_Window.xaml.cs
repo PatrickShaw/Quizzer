@@ -97,7 +97,11 @@ namespace Quizzer
         } 
         private void btnStatistics_Click(object sender, RoutedEventArgs e)
         {
-            Statistics stats = new Statistics();
+            if(QuestionManager.Questions.Count == 0)
+            { 
+            MessageBox.Show("You can't access the statistics page until you answer a question.");
+            return;
+            } Statistics stats = new Statistics();
             tbcModules.AddTab(stats,"Statistics");
         }
     }
